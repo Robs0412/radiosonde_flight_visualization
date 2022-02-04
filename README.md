@@ -1,5 +1,5 @@
 # radiosonde_flight_visualization
-radiosondy.info weather balloon flight data visualization - Excel VBA macro
+Excel VBA macro for radiosondy.info weather balloon flight data visualization
 
 # Introduction
 I started this project to get first insights into Excel VBA. Some 'real life data' and a target to achieve are always a good propulsion – so I started to build a workbook to visualize weather balloon flight data. 
