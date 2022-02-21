@@ -25,10 +25,11 @@ For running the macro, please ensure your Excel can execute it. You may get one 
 That's what the main window then looks like:
 
 ![Main_window.png](__used_asset__/Main_window.png?raw=true "Main_window.png")
+##
 
 And after some cklicks we will get following result - see the steps below:
 
 ![Example_output.png](__used_asset__/Example_output.png?raw=true "Example_output.png")
-
+##
 
 TEXT
