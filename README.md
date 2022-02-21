@@ -25,7 +25,7 @@ That's what the main window then looks like:
 
 ![Main_window.png](__used_asset__/Main_window.png?raw=true "Main_window.png")
 
-And that's the output we want to see - the steps will follow below:
+And after some cklicks we will get following result - see the steps below:
 
 
 
