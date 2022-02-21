@@ -13,6 +13,7 @@ The post-processed data could been used now as an input for other tools, models 
 I tested the macro with hundreds of flights. Most of the time it worked fine, but sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste named objects. A second try usually works. Just download the Excel file, get an idea how it works, feel free to improve and adjust the macro or the charts to suite your needs. Most of the steps in the code have comments or links to know where it is coming from.
 
 ## Let's get started
-First download the latest Excel file and some CSV example. Later you can also download CSV flight data with via macro or via [radiosondy.info](https://radiosondy.info). As you may guessed the example CSV fligh data file are from chases I participated successfully with others or together with my wife. All the unlucky chases are not included of course ;-)
+First download the latest Excel file and some CSV example. Later you can also download CSV flight data via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed the example CSV fligh data file are from chases I participated successfully with others or together with my wife. All the unlucky chases are not included of course ;-)
 
+For running the macro, please ensure your Excel can execute it. You may get one of following warnings which you can accept:
 
