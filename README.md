@@ -22,12 +22,12 @@ For running the macro, please ensure your Excel can execute it. You may get one 
 ![Activate_Macros.PNG](__used_asset__/Activate_Macros.PNG?raw=true "Activate_Macros.PNG")
 ##
 
-That's what the main window then looks like:
+That's what the main window looks like:
 
 ![Main_window.png](__used_asset__/Main_window.png?raw=true "Main_window.png")
 ##
 
-And after some cklicks we will get following result - see the steps below:
+And after some clicks we'll get following result - see the steps below:
 
 ![Example_output.png](__used_asset__/Example_output.png?raw=true "Example_output.png")
 ##
