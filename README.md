@@ -17,3 +17,4 @@ First download the latest Excel file and some CSV example. Later you can also do
 
 For running the macro, please ensure your Excel can execute it. You may get one of following warnings which you can accept:
 ![Activate_Macros.PNG](__used_asset__/Activate_Macros.PNG?raw=true "Activate_Macros.PNG")
+![Activate_Macros.PNG](__used_asset__/Activate_Macros.PNG?raw=true "Activate_Macros.PNG")
