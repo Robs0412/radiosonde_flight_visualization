@@ -20,6 +20,7 @@ For running the macro, please ensure your Excel can execute it. You may get one 
 ![Activate_Macros_2.PNG](__used_asset__/Activate_Macros_2.PNG?raw=true "Activate_Macros_2.PNG")
 
 ![Activate_Macros.PNG](__used_asset__/Activate_Macros.PNG?raw=true "Activate_Macros.PNG")
+##
 
 That's what the main window then looks like:
 
