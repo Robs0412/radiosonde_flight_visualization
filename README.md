@@ -27,7 +27,7 @@ That's what the main window then looks like:
 
 And after some cklicks we will get following result - see the steps below:
 
+![Example_output.png](__used_asset__/Example_output.png?raw=true "Example_output.png")
 
 
-
-
+TEXT
