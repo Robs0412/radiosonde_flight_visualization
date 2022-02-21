@@ -16,5 +16,9 @@ I tested the macro with hundreds of flights. Most of the time it worked fine, bu
 First download the latest Excel file and some CSV example. Later you can also download CSV flight data via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed the example CSV fligh data file are from chases I participated successfully with others or together with my wife. All the unlucky chases are not included of course ;-)
 
 For running the macro, please ensure your Excel can execute it. You may get one of following warnings which you can accept:
+
+![Activate_Macros_2.PNG](__used_asset__/Activate_Macros_2.PNG?raw=true "Activate_Macros_2.PNG")
+
 ![Activate_Macros.PNG](__used_asset__/Activate_Macros.PNG?raw=true "Activate_Macros.PNG")
-![Activate_Macros.PNG](__used_asset__/Activate_Macros.PNG?raw=true "Activate_Macros.PNG")
+
+
