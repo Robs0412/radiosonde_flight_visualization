@@ -32,8 +32,12 @@ For running the macro, please ensure your Excel can execute it. You may get one 
 We'll get there in a minute...
 
 #### Elements:
-The main window has following sections
-
 ![Overview_Files.PNG](__used_asset__/Overview_Files.PNG)
+
+File paths and CSV file name section - it gives you an idea which flights will be imported into separate sheets. It can contain files on the local system or from [radiosondy.info](https://radiosondy.info). The drive location or the link will be filled automatically by the 'CSVs from drive' 'Web-Load CSV' functions.
+
+
+
+
 
 
