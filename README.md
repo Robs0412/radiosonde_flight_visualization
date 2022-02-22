@@ -39,14 +39,16 @@ File paths and CSV file name section - it gives you an idea which flights will b
 
 ---
 ![Buttons_I.PNG](__used_asset__/Buttons_I.PNG)
-Buttons I.
-- Select local CSVs (multiple), Excel will open the folder where the macro is located
-- Delete all elements in file path and CSV file name section (better use this button than deleting marked elements)
-- Web-Load CSV will generate a link according to the flight identifier, please stick to the spelling rules
+- Select local CSVs (multiple) to be added to the file paths and CSV file name section, Excel will open the folder where the macro is located
+- 'Delete file paths' will kick out all elements in file path and CSV file name section
+- 'Web-Load CSV' will generate a link according to the flight identifier, please stick to the spelling rules
+- 'Download CSV' will store the CSV of a specific flight (same folder as macro), the CSV will not be added automatically to the file paths list
+- 'Open radiosondy.info' will open [radiosondy.info](https://radiosondy.info) in your standard browser
 
 Hint:
 - Avoid gaps between files in the file paths / links section as the macro will bring up an error later while running the import
-- When using the 'Web-Load' or 'Download' function, please ensure that Excel has access to the internet (firewall,...)
+- When deleting files / links use the 'Delete file paths' button
+- When using the 'Web-Load' or 'Download' function, please ensure that Excel can access the internet (check firewall,...)
 
 
 
