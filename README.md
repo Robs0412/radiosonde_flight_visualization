@@ -45,7 +45,7 @@ File paths and CSV file name section - it gives you an idea which flights will b
 - 'Download CSV' will store the CSV of a specific flight (same folder as macro), the CSV will not be added automatically to the file paths list
 - 'Open radiosondy.info' will open [radiosondy.info](https://radiosondy.info) in your standard browser
 
-Hint:
+Hints:
 - Avoid gaps between files in the file paths / links section as the macro will bring up an error later while running the import
 - When deleting files / links use the 'Delete file paths' button
 - When using the 'Web-Load' or 'Download' function, please ensure that Excel can access the internet (check firewall,...)
