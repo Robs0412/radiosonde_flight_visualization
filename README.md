@@ -18,19 +18,22 @@ First download the latest Excel file and some CSV example. Later you can also do
 For running the macro, please ensure your Excel can execute it. You may get one of the following warnings which you can accept:
 
 #### Warnings:
-![Activate_Macros.PNG](__used_asset__/Activate_Macros.PNG?raw=true "Activate_Macros.PNG")
+![Activate_Macros.PNG](__used_asset__/Activate_Macros.PNG)
 
-![Activate_Macros_2.PNG](__used_asset__/Activate_Macros_2.PNG?raw=true "Activate_Macros_2.PNG")
+![Activate_Macros_2.PNG](__used_asset__/Activate_Macros_2.PNG)
 
 
 #### The main window:
-![Main_window.png](__used_asset__/Main_window.png?raw=true "Main_window.png")
+![Main_window.png](__used_asset__/Main_window.png)
 
 #### The result after some clicks:
-![Example_output.png](__used_asset__/Example_output.png?raw=true "Example_output.png")
+![Example_output.png](__used_asset__/Example_output.png)
 
 We'll get there in a minute...
 
-#### Elements
+#### Elements:
+The main window has following sections
 
-TEXT
+![Overview_Files.PNG](__used_asset__/Overview_Files.PNG)
+
+
