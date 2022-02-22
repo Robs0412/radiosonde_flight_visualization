@@ -31,13 +31,22 @@ For running the macro, please ensure your Excel can execute it. You may get one 
 
 We'll get there in a minute...
 
-#### Elements:
+### Elements:
+---
 ![Overview_Files.PNG](__used_asset__/Overview_Files.PNG)
 
-File paths and CSV file name section - it gives you an idea which flights will be imported into separate sheets. It can contain files on the local system or from [radiosondy.info](https://radiosondy.info). The drive location or the link will be filled automatically by the 'CSVs from drive' 'Web-Load CSV' functions.
+File paths and CSV file name section - it gives you an idea which flights will be imported into separate sheets. It can contain files on the local system or from [radiosondy.info](https://radiosondy.info). The drive location or the link will be filled automatically by the 'CSVs from drive' or 'Web-Load CSV' functions.
 
+---
+![Buttons_I.PNG](__used_asset__/Buttons_I.PNG)
+Buttons I.
+- Select local CSVs (multiple), Excel will open the folder where the macro is located
+- Delete all elements in file path and CSV file name section (better use this button than deleting marked elements)
+- Web-Load CSV will generate a link according to the flight identifier, please stick to the spelling rules
 
-
+Hint:
+- Avoid gaps between files in the file paths / links section as the macro will bring up an error later while running the import
+- When using the 'Web-Load' or 'Download' function, please ensure that Excel has access to the internet (firewall,...)
 
 
 
