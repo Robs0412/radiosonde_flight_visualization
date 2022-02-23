@@ -40,14 +40,14 @@ You can edit the start-up features in VBA editor (Alt+F11) in the workbook layer
 ##### The main window:
 ![Main_window.png](__used_asset__/Main_window.png)
 
-The elements of the main screen in sheet 'Import' will we explained below.
+The elements of the main screen in this 'Import' sheet will we explained below.
 
 ---
 
 ##### The result after some clicks:
 ![Example_output.png](__used_asset__/Example_output.png)
 
-We'll get there in a minute...
+We'll get there in a minute... :-)
 
 ---
 
