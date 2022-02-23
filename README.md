@@ -88,12 +88,13 @@ Hints:
 
 - 'Process CSVs' will do the juggling and formatting of the raw data, some extra collumns and information will be added. Will be applied to all imported flights
 - 'Draw charts' will generate charts in each imported & processed sheet based on the preconfigured charts in main 'Import' sheet
-- '
+- 'Search sheet' will help you to find a specific sheet in those many parallel imported flights (optional: use small arrows left of the 'Import' tab)
 
 Hints:
 - Information will pop up if a sheet is empty (no data to be process) or if you want to draw charts without processing first
 - Already processed sheets or sheets with charts inserted can't be processed again - the function is checking a flag inside the sheets
 - Please keep the preconfigured charts in main 'Import' sheet unchanged, simple formatting is possible (lines, axis,...)
 - Avoid changes of chart object names or size except you already figured out how the macro is working
+- 'Draw charts' causes sometimes errors due to internal objects copy/paste flaws. Try the function a second time or just scroll once through whole preconfigured charts section to help Excel preload the objects.
 
 
