@@ -26,6 +26,8 @@ For running the macro, please ensure your Excel can execute it. You may get one 
 When starting up the macro it will already execute some actions. It will set the 'decimal separator' to '.' (dot). In case you are used to it anyway this will not bother you. For countries like Germnay which are used to ',' (comma) this affect your typing actions.
 The change is just affecting this particular visualization workbook. All other workbooks opened in parallel will use normal system settings. 
 
+![Information_splash_screen.PNG](__used_asset__/Information_splash_screen.PNG)
+
 
 
 
