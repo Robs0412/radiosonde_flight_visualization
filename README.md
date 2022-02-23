@@ -60,7 +60,7 @@ File paths and CSV file name section - it gives you an idea which flights will b
 
 ![Buttons_I.PNG](__used_asset__/Buttons_I.PNG)
 
-- Select local CSVs (multiple) for adding to the file paths / name section, Excel will open the folder where the macro is located.
+- 'Select CSVs from drive' (multiple) for adding to the file paths / name section, Excel will open first the folder where the macro is located.
 - 'Delete file paths' will kick out all elements in file path / name section.
 - 'Web-Load CSV' will generate a link according to the flight identifier, please stick to the spelling rules.
 - 'Download CSV' will store the CSV of a specific flight (same folder as macro), the CSV will not be added automatically to the file paths list.
@@ -81,5 +81,19 @@ Hints:
 Hints:
 - If a flight is already imported it will not be imported once more (no duplicated sheets).
 - The main 'Import' sheet should always stay at first tab position as some actions are depending on that. Please don't move it to another tab location later.
+
+---
+
+![Buttons_III.PNG](__used_asset__/Buttons_III.PNG)
+
+- 'Process CSVs' will do the juggling and formatting of the raw data, some extra collumns and information will be added. Will be applied to all imported flights
+- 'Draw charts' will generate charts in each imported & processed sheet based on the preconfigured charts in main 'Import' sheet
+- '
+
+Hints:
+- Information will pop up if a sheet is empty (no data to be process) or if you want to draw charts without processing first
+- Already processed sheets or sheets with charts inserted can't be processed again - the function is checking a flag inside the sheets
+- Please keep the preconfigured charts in main 'Import' sheet unchanged, simple formatting is possible (lines, axis,...)
+- Avoid changes of chart object names or size except you already figured out how the macro is working
 
 
