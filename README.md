@@ -13,32 +13,43 @@ The post-processed data could been used now as an input for other tools, models 
 I tested the macro with hundreds of flights. Most of the time it worked fine, but sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste named objects. A second try usually works. Just download the Excel file, get an idea how it works, feel free to improve and adjust the macro or the charts to suite your needs. Most of the steps in the code have comments or links to know where it is coming from.
 
 ### Let's get started:
-First download the latest Excel file and some CSV example. Later you can also download CSV flight data via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed the example CSV fligh data file are from chases I participated successfully with others or together with my wife. All the unlucky chases are not included of course ;-)
+Just download the latest Excel file and some CSV example. Later you can also download CSVs with flight data via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed the example CSVs are from chases I participated successfully together with other seekers or with my wife. All unlucky chases are not included of course ;-)
 
-#### Warnings:
-For running the macro, please ensure your Excel can execute it. You may get one of the following warnings which you can accept:
+---
+
+##### Warnings:
 
 ![Activate_Macros.PNG](__used_asset__/Activate_Macros.PNG)
 
 ![Activate_Macros_2.PNG](__used_asset__/Activate_Macros_2.PNG)
 
-#### Information:
-When starting up the macro it will already execute some actions. It will set the 'decimal separator' to '.' (dot). In case you are used to it anyway this will not bother you. For countries like Germnay which are used to ',' (comma) this affect your typing actions.
-The change is just affecting this particular visualization workbook. All other workbooks opened in parallel will use normal system settings. 
+For running the macro, please ensure your Excel can execute it. You may get one of those warnings which you can accept.
+
+---
+
+##### Information:
 
 ![Information_splash_screen.PNG](__used_asset__/Information_splash_screen.PNG)
 
+When starting up the macro it will already execute some actions. It will set the 'decimal separator' to '.' (dot). In case you are used to it anyway this will not bother you. For countries like Germnay which are used to ',' (comma) this affect your typing actions.
+The change is just affecting this particular visualization workbook. All other workbooks opened in parallel will use normal system settings.
+You can edit the start-up features in VBA editor (Alt+F11) in the workbook layer (deactivate the splash screen, force other actions, ...).
+ 
+---
 
-
-
-
-#### The main window:
+##### The main window:
 ![Main_window.png](__used_asset__/Main_window.png)
 
-#### The result after some clicks:
+The elements of the main screen in sheet 'Import' will we explained below.
+
+---
+
+##### The result after some clicks:
 ![Example_output.png](__used_asset__/Example_output.png)
 
 We'll get there in a minute...
+
+---
 
 ### Elements:
 ---
