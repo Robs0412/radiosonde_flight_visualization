@@ -103,9 +103,9 @@ Hints:
 
 ![Overview_ExcelUI.PNG](__used_asset__/Overview_ExcelUI.PNG)
 
-If you like the workbook in a 'cleaned' app style try the buttons to toggle between full or reduced UI. The option can also be activated during start-up of the macro, see VBA editor (Alt+F11) in the general workbook layer section.
+If you like the workbook in a 'cleaned' app style try the buttons to toggle between full or reduced UI. The option can also be activated during start-up of the macro, see VBA editor (Alt+F11) in the general workbook layer section. It is not set active by default
 
 Hint:
-- Make sure you switch back to 'Show' in the end to get back ribbons and the rest
+- Make sure you switch back to 'Show' in the end of a working session to get back the UI
 
 ---
