@@ -15,7 +15,6 @@ I tested the macro with hundreds of flights. Most of the time it worked fine, bu
 ### Let's get started:
 Just download the latest Excel file and some CSV example. Later you can also download CSVs with flight data via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed the example CSVs are from chases I participated successfully together with other seekers or with my wife. All unlucky chases are not included of course ;-)
 
----
 
 ##### Warnings:
 
@@ -52,23 +51,35 @@ We'll get there in a minute... :-)
 ---
 
 ### Elements:
----
+
 ![Overview_Files.PNG](__used_asset__/Overview_Files.PNG)
 
 File paths and CSV file name section - it gives you an idea which flights will be imported into separate sheets. It can contain files on the local system or from [radiosondy.info](https://radiosondy.info). The drive location or the link will be filled automatically by the 'CSVs from drive' or 'Web-Load CSV' functions.
 
 ---
+
 ![Buttons_I.PNG](__used_asset__/Buttons_I.PNG)
-- Select local CSVs (multiple) for adding to the file paths / name section, Excel will open the folder where the macro is located
-- 'Delete file paths' will kick out all elements in file path / name section
-- 'Web-Load CSV' will generate a link according to the flight identifier, please stick to the spelling rules
-- 'Download CSV' will store the CSV of a specific flight (same folder as macro), the CSV will not be added automatically to the file paths list
-- 'Open radiosondy.info' will open [radiosondy.info](https://radiosondy.info) in your standard browser
+
+- Select local CSVs (multiple) for adding to the file paths / name section, Excel will open the folder where the macro is located.
+- 'Delete file paths' will kick out all elements in file path / name section.
+- 'Web-Load CSV' will generate a link according to the flight identifier, please stick to the spelling rules.
+- 'Download CSV' will store the CSV of a specific flight (same folder as macro), the CSV will not be added automatically to the file paths list.
+- 'Open radiosondy.info' will open [radiosondy.info](https://radiosondy.info) in your standard browser.
 
 Hints:
-- Avoid gaps between files in the file paths / links section as the macro will bring up an error later while running the import
-- When deleting files / links use the 'Delete file paths' button
-- When using the 'Web-Load' or 'Download' function, please ensure that Excel can access the internet (check firewall,...)
+- Avoid gaps between files in the file paths / links section as the macro will bring up an error later while running the import.
+- When deleting files / links use the 'Delete file paths' button.
+- When using the 'Web-Load' or 'Download' function, please ensure that Excel can access the internet (check firewall,...).
 
+---
+
+![Buttons_II.PNG](__used_asset__/Buttons_II.PNG)
+
+- 'Import CSVs' will import all CSVs which are listed in the file paths section. The import is in raw format with a seperate sheet for each flight.
+- 'Delete sheets' will kick out all generated sheets except the 'Import' main sheet.
+
+Hints:
+- If a flight is already imported it will not be imported once more (no duplicated sheets).
+- The main 'Import' sheet should always stay at first tab position as some actions are depending on that. Please don't move it to another tab location later.
 
 
