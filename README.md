@@ -32,8 +32,10 @@ For running the macro, please ensure your Excel can execute it. You may get one 
 
 When starting up the macro it will already execute some actions. It will set the 'decimal separator' to '.' (dot). In case you are used to it anyway this will not bother you. For countries like Germnay which are used to ',' (comma) this affect your typing actions.
 The change is just affecting this particular visualization workbook. All other workbooks opened in parallel will use normal system settings.
-You can edit the start-up features in VBA editor (Alt+F11) in the workbook layer (deactivate the splash screen, force other actions, ...).
- 
+You can edit the start-up features in VBA editor (Alt+F11) in the general workbook layer (deactivate the splash screen, force other actions, ...).
+
+Attention: the macro will definitely change your calculation setting. While using the functions it will switch between automatic/manual mode but will stay in automatic at the end. Check 'Formula' ribbon and calculation options to change back to your prefered setup.
+
 ---
 
 ##### The main window:
@@ -97,4 +99,13 @@ Hints:
 - Avoid changes of chart object names or size except you already figured out how the macro is working
 - 'Draw charts' causes sometimes errors due to internal objects copy/paste flaws. Try the function a second time or just scroll once through whole preconfigured charts section to help Excel preload the objects.
 
+---
 
+![Overview_ExcelUI.PNG](__used_asset__/Overview_ExcelUI.PNG)
+
+If you like the workbook in a 'cleaned' app style try the buttons to toggle between full or reduced UI. The option can also be activated during start-up of the macro, see VBA editor (Alt+F11) in the general workbook layer section.
+
+Hint:
+- Make sure you switch back to 'Show' in the end to get back ribbons and the rest
+
+---
