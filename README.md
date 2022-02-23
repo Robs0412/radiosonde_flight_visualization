@@ -15,12 +15,19 @@ I tested the macro with hundreds of flights. Most of the time it worked fine, bu
 ### Let's get started:
 First download the latest Excel file and some CSV example. Later you can also download CSV flight data via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed the example CSV fligh data file are from chases I participated successfully with others or together with my wife. All the unlucky chases are not included of course ;-)
 
+#### Warnings:
 For running the macro, please ensure your Excel can execute it. You may get one of the following warnings which you can accept:
 
-#### Warnings:
 ![Activate_Macros.PNG](__used_asset__/Activate_Macros.PNG)
 
 ![Activate_Macros_2.PNG](__used_asset__/Activate_Macros_2.PNG)
+
+#### Information:
+When starting up the macro it will already execute some actions. It will set the 'decimal separator' to '.' (dot). In case you are used to it anyway this will not bother you. For countries like Germnay which are used to ',' (comma) this affect your typing actions.
+The change is just affecting this particular visualization workbook. All other workbooks opened in parallel will use normal system settings. 
+
+
+
 
 
 #### The main window:
