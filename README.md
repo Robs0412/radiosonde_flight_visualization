@@ -30,7 +30,7 @@ For running the macro, please ensure your Excel can execute it. You may get one 
 
 ![Information_splash_screen.PNG](__used_asset__/Information_splash_screen.PNG)
 
-When starting up the macro it will already execute some actions. It will set the 'decimal separator' to '.' (dot). In case you are used to it anyway this will not bother you. For countries like Germnay which are used to ',' (comma) this affect your typing actions.
+When starting up the macro it will already execute some actions. It will set the 'decimal separator' to '.' (dot). In case you are used to it anyway this will not bother you. For countries like Germany which are used to ',' (comma) this affect your typing actions.
 The change is just affecting this particular visualization workbook. All other workbooks opened in parallel will use normal system settings.
 You can edit the start-up features in VBA editor (Alt+F11) in the general workbook layer (deactivate the splash screen, force other actions, ...).
 
