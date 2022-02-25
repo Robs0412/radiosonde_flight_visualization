@@ -14,6 +14,10 @@ I tested the macro with hundreds of flights. Most of the time it worked fine, bu
 
 The macros is tested using Excel 2016 & 365 (Windows)
 
+HERE THE GIF
+
+
+
 ### Let's get started:
 Just download the latest Excel file and some CSV example. Later you can also download CSVs with flight data via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed, the CSV examples are from chases I participated successfully together with other seekers or with my wife. The unlucky chases are not included of course ;-)
 
