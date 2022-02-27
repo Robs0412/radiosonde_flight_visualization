@@ -118,5 +118,5 @@ Hint:
 
 ### Some improvements planned:
 
-- [ ] Add ozone O3 - focus so far was on the standard radiosondes which don't measure ozone
+- [ ] Add ozone O3 - focus so far was on standard radiosondes which don't measure ozone
 - [ ] Add a 'compare chart' sheet which contains flight information of several radiosondes for comparison
