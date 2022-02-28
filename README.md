@@ -15,6 +15,7 @@ I tested the macro with hundreds of flights. Most of the time it worked fine, so
 The macros is tested using Excel 2016 & 365 (Windows)
 
 HERE THE GIF
+![Animation.gif](__used_asset__/Animation.gif)
 
 
 
