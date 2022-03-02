@@ -118,15 +118,13 @@ Hint:
 
 ### Debugging:
 
-For debugging the macro you can deactivate the error handling inside the modules by adding a tick mark:
+For debugging you can deactivate the error handling (message) inside the modules by adding a tick mark before 'On Error GoTo':
 
-![Error_Handling.PNG](__used_asset__/Error_Handling.PNG)
+![Error_Handling_marked.PNG](__used_asset__/Error_Handling_marked.PNG)
 
-
+In case you like to enable debug messages in general you can activate it in VBA editor (Alt+F11) Tools - Options - General - 'Break on all errors'
 
 ![Error_Debugging_Options.PNG](__used_asset__/Error_Debugging_Options.PNG)
-
-
 
 ---
 
