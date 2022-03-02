@@ -116,13 +116,22 @@ Hint:
 
 ---
 
+### Debugging:
+
+For debugging the macro you can deactivate the error handling inside the modules by adding a tick mark:
+
+![Error_Handling.PNG](__used_asset__/Error_Handling.PNG)
+
+
+
+![Error_Debugging_Options.PNG](__used_asset__/Error_Debugging_Options.PNG)
+
+
+
+---
+
 ### Some improvements planned:
 
 - [ ] Add ozone O3 - focus so far was on standard radiosondes which don't measure ozone
 - [ ] Add a 'compare chart' sheet which contains flight information of several radiosondes for comparison ('time since start' variable is already included for that)
-
----
-
-### Debugging:
-
 
