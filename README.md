@@ -1,5 +1,6 @@
 ## radiosonde_flight_visualization
-Excel VBA macro for visualization of [radiosondy.info](https://radiosondy.info) weather balloon flight data
+Excel VBA macro for visualization of [radiosondy.info](https://radiosondy.info) weather balloon flight data.
+Latest version:  radiosonde_flight_visualization__20220302.xlsm  (xlsm file in root folder, VBA bas files in sub-folder)
 
 ### Introduction:
 I started this project to get first insights into Excel VBA - some 'real life data' and the target to visualize weather balloon flights. 
@@ -14,10 +15,7 @@ I tested the macro with hundreds of flights. Most of the time it worked fine, so
 
 The macros is tested using Excel 2016 & 365 (Windows)
 
-HERE THE GIF
 ![Animation.gif](__used_asset__/Animation.gif)
-
-
 
 ### Let's get started:
 Just download the latest Excel file and some CSV example. Later you can also download CSVs with flight data via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed, the CSV examples are from chases I participated successfully together with other seekers or with my wife. The unlucky chases are not included of course ;-)
