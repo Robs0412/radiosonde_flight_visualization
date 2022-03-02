@@ -14,9 +14,9 @@ The post-processed data could been used now as an input for other tools, models 
 
 I tested the macro with hundreds of flights. Most of the time it worked fine, sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste named objects. A second try usually works. Just download the Excel file, get an idea how it works, feel free to improve and adjust the macro or the charts to suite your needs. Most of the steps in the code have comments or links to know where it is coming from.
 
-The macros is tested using Excel 2016 & 365 (Windows)
+The macros is tested with Excel 2016 & 365 (Windows)
 
-![Animation.gif](__used_asset__/Animation.gif)
+![Animation_20220302_low_res.gif](__used_asset__/Animation_20220302_low_res.gif)
 
 ### Let's get started:
 Download the latest Excel file (root directory) and some CSV example (sub-folder). Later you can download more CSVs via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed, the CSV examples are from chases I participated successfully together with other seekers or with my wife. The unlucky chases are not included of course ;-)
