@@ -3,6 +3,8 @@
 
 Latest version:  radiosonde_flight_visualization__20220302.xlsm  (xlsm file in root directory, VBA bas files in sub-folder)
 
+Tested with Excel 2016 & 365 (Windows)
+
 ### Introduction:
 I started this project to get first insights into Excel VBA - some 'real life data' and the target to visualize weather balloon flights. 
 For sure, it is not a masterpiece in coding, but for beginners in data analysis it might be a good starting point. The charts generated in the workbook give you a better idea about what is going on up in the air or you may just find some helpful lines in the macro for your own projects.
@@ -13,8 +15,6 @@ The macro pulls apart the text strings of the recorded balloon data, does some j
 The post-processed data could been used now as an input for other tools, models or coding projects, like flight or weather prediction. The charts might be interesting for your projects or presentations.
 
 I tested the macro with hundreds of flights. Most of the time it worked fine, sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste named objects. A second try usually works. Just download the Excel file, get an idea how it works, feel free to improve and adjust the macro or the charts to suite your needs. Most of the steps in the code have comments or links to know where it is coming from.
-
-The macros is tested with Excel 2016 & 365 (Windows)
 
 ![Animation_20220302_low_res.gif](__used_asset__/Animation_20220302_low_res.gif)
 
