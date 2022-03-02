@@ -1,7 +1,7 @@
 ## radiosonde_flight_visualization
 Excel VBA macro for visualization of [radiosondy.info](https://radiosondy.info) weather balloon flight data.
 
-Latest version:  radiosonde_flight_visualization__20220302.xlsm  (xlsm file in root folder, VBA bas files in sub-folder)
+Latest version:  radiosonde_flight_visualization__20220302.xlsm  (xlsm file in root directory, VBA bas files in sub-folder)
 
 ### Introduction:
 I started this project to get first insights into Excel VBA - some 'real life data' and the target to visualize weather balloon flights. 
