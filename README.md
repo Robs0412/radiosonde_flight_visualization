@@ -1,5 +1,5 @@
 ## radiosonde_flight_visualization
-Excel VBA macro for visualization of [radiosondy.info](https://radiosondy.info) weather balloon flight data.
+»»»  Excel VBA macro for visualization of [radiosondy.info](https://radiosondy.info) weather balloon flight data  «««
 
 Latest version:  radiosonde_flight_visualization__20220302.xlsm  (xlsm file in root directory, VBA bas files in sub-folder)
 
@@ -8,7 +8,7 @@ I started this project to get first insights into Excel VBA - some 'real life da
 For sure, it is not a masterpiece in coding, but for beginners in data analysis it might be a good starting point. The charts generated in the workbook give you a better idea about what is going on up in the air or you may just find some helpful lines in the macro for your own projects.
 
 As a source, the workbook is dealing with archived data from [radiosondy.info](https://radiosondy.info). This site is showing crowd-sourced data from weather balloons up in the air. 
-The macro pulls apart the text strings of the recorded balloon data, does some juggling and formatting steps and finally it prints charts for visualization.
+The macro pulls apart the text strings of the recorded balloon data, does some juggling and formatting steps and finally prints charts for visualization.
 
 The post-processed data could been used now as an input for other tools, models or coding projects, like flight or weather prediction. The charts might be interesting for your projects or presentations.
 
@@ -19,7 +19,7 @@ The macros is tested using Excel 2016 & 365 (Windows)
 ![Animation.gif](__used_asset__/Animation.gif)
 
 ### Let's get started:
-Just download the latest Excel file and some CSV example. Later you can also download CSVs with flight data via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed, the CSV examples are from chases I participated successfully together with other seekers or with my wife. The unlucky chases are not included of course ;-)
+Download the latest Excel file (root directory) and some CSV example (sub-folder). Later you can download more CSVs via the macro or via [radiosondy.info](https://radiosondy.info). As you may have guessed, the CSV examples are from chases I participated successfully together with other seekers or with my wife. The unlucky chases are not included of course ;-)
 
 
 ##### Warnings:
