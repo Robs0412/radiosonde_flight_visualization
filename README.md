@@ -137,7 +137,9 @@ In case you like to enable debug messages in general you can activate it in VBA 
 - Added ozone O3 evaluation
 - Added charts 'value vs. altitude', which gives an idea about symetry in flight
 - More robust string parsing (grabbing values from 'comment' column)
-- Code clean-up & some fixes 
+- Code clean-up & some fixes
+
+![Charts_vs_Time_and_Altitude.PNG](__used_asset__/Charts_vs_Time_and_Altitude.PNG)
 
 ---
 
