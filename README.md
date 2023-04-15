@@ -6,7 +6,7 @@ Latest version:  radiosonde_flight_visualization__20220302.xlsm  (xlsm file in r
 Tested with Excel 2016 & 365 (Windows)
 
 ### Introduction:
-I started this project to get first insights into Excel VBA - some 'real life data' and the target to visualize weather balloon flights. 
+I started this project to get first insights into Excel VBA - some 'real life data' and the plan to visualize weather balloon flights. 
 For sure, it is not a masterpiece in coding, but for beginners in data analysis it might be a good starting point. The charts generated in the workbook give you a better idea about what is going on up in the air or you may just find some helpful lines in the macro for your own projects.
 
 As a source, the workbook is dealing with archived data from [radiosondy.info](https://radiosondy.info). This site is showing crowd-sourced data from weather balloons up in the air. 
