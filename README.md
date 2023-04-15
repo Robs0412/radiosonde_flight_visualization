@@ -151,7 +151,9 @@ In case you like to enable debug messages in general you can activate it in VBA 
 
 The macro was tested with hundreds of flights. Most of the time it worked fine, but sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste named objects. A second try with 'Draw charts' usually works.
 
-Large numbers of flights (>>100) can cause 32-Bit Excel to freeze as RAM memory is not sufficient, especially when drawing charts. 64-Bit Office might be the solution.
+![Chart_Drawing_Error.PNG](__used_asset__/Chart_Drawing_Error.PNG)
+
+Large numbers of flights (>>100) can cause 32-Bit Excel to freeze as RAM memory is not sufficient, especially when drawing charts. 64-Bit Excel might be the solution.
 
 ---
 
