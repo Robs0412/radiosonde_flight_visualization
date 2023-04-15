@@ -16,7 +16,7 @@ The post-processed data could been used now as an input for other tools, models 
 
 Just download the Excel file, get an idea how it works, feel free to improve and adjust the macro or the charts to suite your needs. Most of the steps in the code have comments or links to know where it is coming from.
 
-Here a short animation to get an idea about the tool:
+A short animation to get an idea about the tool:
 
 ![Animation_20220302_full_res.gif](__used_asset__/Animation_20220302_full_res.gif)
 
