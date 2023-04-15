@@ -135,7 +135,7 @@ In case you like to enable debug messages in general you can activate it in VBA 
 20220302:
 - Initial version
 
-202304xx:
+202304xx (upload planned soon):
 - Added ozone O3 evaluation
 - Added charts 'value vs. altitude', which gives an idea about symetry in flight
 - More robust string parsing (grabbing values from 'comment' column)
