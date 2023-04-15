@@ -141,6 +141,8 @@ In case you like to enable debug messages in general you can activate it in VBA 
 - More robust string parsing (grabbing values from 'comment' column)
 - Code clean-up & some fixes
 
+![Charts_Ozone_O3.PNG](__used_asset__/Charts_vs_Time_and_Altitude.PNG)
+
 ![Charts_vs_Time_and_Altitude.PNG](__used_asset__/Charts_vs_Time_and_Altitude.PNG)
 
 ---
