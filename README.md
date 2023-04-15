@@ -169,5 +169,4 @@ Implausible values in 'description' strings are ignored but can cause glitches d
 
 ---
 
-April 2023
-Darmstadt, Germany
+April 2023 - Darmstadt, Germany
