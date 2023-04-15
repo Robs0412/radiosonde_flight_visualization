@@ -128,6 +128,20 @@ In case you like to enable debug messages in general you can activate it in VBA 
 
 ---
 
+### Version:
+
+20220302:
+Initial version
+
+202304xx:
+Added ozone O3 evaluation
+More robust string parsing (gran values from 'comment' column)
+Added charts 'value vs. altitude', which gives an idea about symetry in flight
+Clean-up in VBA code
+
+---
+
+
 ### Some improvements planned:
 
 - [ ] Add ozone O3 - focus so far was on standard radiosondes which don't measure ozone
