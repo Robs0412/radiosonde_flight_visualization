@@ -135,7 +135,7 @@ In case you like to enable debug messages in general you can activate it in VBA 
 20220302:
 - Initial version
 
-202304xx (upload planned soon):
+202304xx (upload soon):
 - Added ozone O3 evaluation
 - Added charts 'value vs. altitude', which gives an idea about symetry in flight
 - More robust string parsing (grabbing values from 'description' column)
@@ -159,4 +159,4 @@ Large numbers of flights (>>100) can cause 32-Bit Excel to freeze as RAM memory 
 
 - [ ] Add a 'compare chart' sheet which contains flight information of several radiosondes for comparison
 - [ ] Add some statistical data of multiple flights
-- [ ] Try solutions to connect with python to speed up processing
+- [ ] Solutions to connect with python to speed up processing
