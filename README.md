@@ -14,7 +14,9 @@ The macro pulls apart the text strings of the recorded balloon data, does some j
 
 The post-processed data could been used now as an input for other tools, models or coding projects, like flight or weather prediction. The charts might be interesting for your projects or presentations.
 
-I tested the macro with hundreds of flights. Most of the time it worked fine, sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste named objects. A second try usually works. Just download the Excel file, get an idea how it works, feel free to improve and adjust the macro or the charts to suite your needs. Most of the steps in the code have comments or links to know where it is coming from.
+Just download the Excel file, get an idea how it works, feel free to improve and adjust the macro or the charts to suite your needs. Most of the steps in the code have comments or links to know where it is coming from.
+
+Here a short animation to get an idea about the tool:
 
 ![Animation_20220302_full_res.gif](__used_asset__/Animation_20220302_full_res.gif)
 
@@ -140,6 +142,12 @@ In case you like to enable debug messages in general you can activate it in VBA 
 - Code clean-up & some fixes
 
 ![Charts_vs_Time_and_Altitude.PNG](__used_asset__/Charts_vs_Time_and_Altitude.PNG)
+
+---
+
+### Remarks:
+
+The macro was tested with hundreds of flights. Most of the time it worked fine, but sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste named objects. A second try with 'Draw charts' usually works.
 
 ---
 
