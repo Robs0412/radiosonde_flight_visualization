@@ -161,6 +161,7 @@ Large numbers of flights (>>100) can cause 32-Bit Excel to freeze as RAM memory 
 - [ ] Add some statistical data of multiple flights
 - [ ] Solutions to connect with python to speed up processing
 
+---
 
 April 2023
 Darmstadt, Germany
