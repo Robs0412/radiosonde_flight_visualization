@@ -153,7 +153,7 @@ The macro was tested with hundreds of flights. Most of the time it worked fine, 
 
 ![Chart_Drawing_Error.PNG](__used_asset__/Chart_Drawing_Error.PNG)
 
-Large numbers of flights (>>100) can cause 32-Bit Excel to freeze as RAM memory is not sufficient, especially when drawing charts. 64-Bit Excel might be the solution.
+Large numbers of flights (≫200) can cause 32-Bit Excel to freeze as RAM memory is not sufficient, especially when drawing charts in all sheets. 64-Bit Excel might be the solution.
 
 Implausible values in 'description' strings are ignored but can cause glitches during parsing, for example:
 
