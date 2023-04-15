@@ -135,12 +135,11 @@ In case you like to enable debug messages in general you can activate it in VBA 
 
 202304xx:
 - Added ozone O3 evaluation
-- More robust string parsing (grabbing values from 'comment' column)
 - Added charts 'value vs. altitude', which gives an idea about symetry in flight
-- Clean-up of VBA code
+- More robust string parsing (grabbing values from 'comment' column)
+- Code clean-up & some fixes 
 
 ---
-
 
 ### Some improvements planned:
 
