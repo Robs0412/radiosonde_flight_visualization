@@ -1,3 +1,5 @@
-Structure, see "Macro_structure__20220302.PNG":
+VBA macro consist of several modules.
+For each version the modules are backuped here.
 
+Modules in macro editor (Alt + F11):
 ![Macro_structure__20220302.PNG](Macro_structure__20220302.PNG)
