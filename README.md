@@ -155,6 +155,10 @@ The macro was tested with hundreds of flights. Most of the time it worked fine, 
 
 Large numbers of flights (>>100) can cause 32-Bit Excel to freeze as RAM memory is not sufficient, especially when drawing charts. 64-Bit Excel might be the solution.
 
+Implausible values in 'description' strings are ignored but can cause glitches during parsing for example:
+
+![Implausible_Description.PNG](__used_asset__/Implausible_Description.PNG)
+
 ---
 
 ### Some improvements planned:
