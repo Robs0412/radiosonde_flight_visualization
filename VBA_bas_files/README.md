@@ -1,5 +1,4 @@
-VBA macro consist of several modules.
-For each version the modules are backuped here.
+VBA macro consists of several modules, for each version the modules are backuped here.
 
 Modules in macro editor (Alt + F11):
 
