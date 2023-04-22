@@ -149,7 +149,7 @@ In case you like to enable debug messages in general you can activate it in VBA 
 
 ### Remarks:
 
-The macro was tested with hundreds of flights. Most of the time it worked fine, but sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste named objects. A second try with 'Draw charts' usually works.
+The macro was tested with hundreds of flights. Most of the time it worked fine, but sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste objects. A second try with 'Draw charts' may work, but some Excel versions show permanent errors. See further information about [here](https://www.mrexcel.com/board/threads/vba-method-copy-of-object-chartarea-failed.1177623) or [here](https://answers.microsoft.com/en-us/msoffice/forum/all/cannot-copy-charts-using-vba/ed3a29a0-aa51-47d8-b992-fd2eefb53323). So far none of the proposed solutions meet all requirements.
 
 ![Chart_Drawing_Error.PNG](__used_asset__/Chart_Drawing_Error.PNG)
 
@@ -163,6 +163,7 @@ Implausible values in 'description' strings are ignored but can cause glitches d
 
 ### Some improvements planned:
 
+- [ ] Fix chart draw issue with certain Excel versions (copy & paste VBA problem with chart objects)
 - [ ] Add a 'compare chart' sheet which contains flight information of several radiosondes for comparison
 - [ ] Add some statistical data of multiple flights
 - [ ] Solutions to connect with python to speed up processing
