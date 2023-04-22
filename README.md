@@ -159,7 +159,7 @@ Debug message (not shown to the user, except if error handling is modified):
 
 ![Chart_Debug_Error_Code.PNG](__used_asset__/Chart_Debug_Error_Code.PNG)
 
-An option may also be to deactivate error handling and jump to the code by pressing 'Debug'. In the code you can continue the execution manually (play button or F5).
+An option may be to deactivate error handling and jump to the code by pressing 'Debug'. In the code you can continue the execution manually (play button or F5).
 
 Large numbers of flights (≫200) can cause 32-Bit Excel to freeze as RAM memory is not sufficient, especially when drawing charts in all sheets. 64-Bit Excel might be the solution.
 
