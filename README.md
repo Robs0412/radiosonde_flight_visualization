@@ -1,7 +1,7 @@
 ## radiosonde_flight_visualization
 »»»  Excel VBA macro for visualization of [radiosondy.info](https://radiosondy.info) weather balloon flight data  «««
 
-Latest version:  radiosonde_flight_visualization__20220302.xlsm  (xlsm file in root directory, VBA bas files in sub-folder)
+Latest version:  radiosonde_flight_visualization__20230422.xlsm  (xlsm file in root directory, VBA bas files in sub-folder)
 
 Tested with Excel 2016 & 365 (Windows)
 
@@ -135,7 +135,7 @@ In case you like to enable debug messages in general you can activate it in VBA 
 20220302:
 - Initial version
 
-202304xx (upload soon):
+20230422:
 - Added ozone O3 evaluation
 - Added charts 'value vs. altitude', which gives an idea about symetry in flight
 - More robust string parsing (grabbing values from 'description' column)
