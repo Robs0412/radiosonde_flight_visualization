@@ -38,7 +38,7 @@ For running the macro, please ensure Excel can execute it. You may get one of th
 
 ![Information_splash_screen.PNG](__used_asset__/Information_splash_screen.PNG)
 
-When starting up the macro it will already execute some actions. It will set the 'decimal separator' to '.' (dot). In case you are used to it anyway this will not bother you. For countries like Germany which are used to ',' (comma) this affect your typing actions.
+When starting up the macro it will already execute some actions. It will set the 'decimal separator' to '.' (dot). In case you are used to it anyway this will not bother you. For countries like Germany which are used to ',' (comma), it affects your typing actions.
 The change is just affecting this particular visualization workbook. All other workbooks opened in parallel will use normal system settings.
 You can edit the start-up features in VBA editor (Alt+F11) in the general workbook layer (f.e.: deactivate the splash screen, force other actions,...).
 
@@ -149,8 +149,12 @@ In case you like to enable debug messages in general you can activate it in VBA 
 
 ### Remarks:
 
-The macro was tested with hundreds of flights. Most of the time it worked fine, but sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste objects. A second try with 'Draw charts' may work, but some Excel versions show permanent errors. See further information about [here](https://www.mrexcel.com/board/threads/vba-method-copy-of-object-chartarea-failed.1177623) or [here](https://answers.microsoft.com/en-us/msoffice/forum/all/cannot-copy-charts-using-vba/ed3a29a0-aa51-47d8-b992-fd2eefb53323). So far none of the proposed solutions meet all requirements.
+The macro was tested with hundreds of flights. Most of the time it worked fine, but sometimes errors came up especially when generating the charts. Excel occasionally struggles to copy & paste objects. A second try with 'Draw charts' may work, but some Excel versions show permanent errors. See further information about it [here](https://www.mrexcel.com/board/threads/vba-method-copy-of-object-chartarea-failed.1177623) or [here](https://answers.microsoft.com/en-us/msoffice/forum/all/cannot-copy-charts-using-vba/ed3a29a0-aa51-47d8-b992-fd2eefb53323). So far none of the proposed solutions meet all requirements.
 
+Debug message (not shown to the user, except if error handling is modified):
+![Chart_Debug_Error_Code.PNG](__used_asset__/Chart_Debug_Error_Code.PNG)
+
+Error message shown to user:
 ![Chart_Drawing_Error.PNG](__used_asset__/Chart_Drawing_Error.PNG)
 
 Large numbers of flights (≫200) can cause 32-Bit Excel to freeze as RAM memory is not sufficient, especially when drawing charts in all sheets. 64-Bit Excel might be the solution.
