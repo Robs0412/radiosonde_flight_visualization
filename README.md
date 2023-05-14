@@ -1,7 +1,7 @@
 ## radiosonde_flight_visualization
 »»»  Excel VBA macro for visualization of [radiosondy.info](https://radiosondy.info) weather balloon flight data  «««
 
-Latest version:  radiosonde_flight_visualization__20230422.xlsm  (xlsm file in root directory, VBA bas files in sub-folder)
+Latest version:  radiosonde_flight_visualization__20230514.xlsm  (xlsm file in root directory, VBA bas files in sub-folder)
 
 Tested with Excel 2016 & 365 (Windows)
 
@@ -132,8 +132,9 @@ In case you like to enable debug messages in general you can activate it in VBA 
 
 ### Version:
 
-20220302:
-- Initial version
+20230514:
+- 'Kind of' fix of chart draw copy & paste issue (implemented automatic 5 times retry, just then error message)
+- Finally ignoring -9999m/s climbing speed
 
 20230422:
 - Added ozone O3 evaluation
@@ -144,6 +145,9 @@ In case you like to enable debug messages in general you can activate it in VBA 
 ![Charts_Ozone_O3.PNG](__used_asset__/Charts_Ozone_O3.PNG)
 
 ![Charts_vs_Time_and_Altitude.PNG](__used_asset__/Charts_vs_Time_and_Altitude.PNG)
+
+20220302:
+- Initial version
 
 ---
 
@@ -171,11 +175,10 @@ Implausible values in 'description' strings are ignored but can cause glitches d
 
 ### Some improvements planned:
 
-- [ ] Fix chart draw issue with certain Excel versions (copy & paste VBA problem with chart objects)
 - [ ] Add a 'compare chart' sheet which contains flight information of several radiosondes for comparison
 - [ ] Add some statistical data of multiple flights
 - [ ] Solutions to connect with python to speed up processing
 
 ---
 
-April 2023 - Darmstadt, Germany
+May 2023 - Darmstadt, Germany
