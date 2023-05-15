@@ -1,7 +1,7 @@
 ## radiosonde_flight_visualization
 »»»  Excel VBA macro for visualization of [radiosondy.info](https://radiosondy.info) weather balloon flight data  «««
 
-Latest version:  radiosonde_flight_visualization__20230514.xlsm  (xlsm file in root directory, VBA bas files in sub-folder)
+Latest version:  radiosonde_flight_visualization__20230515.xlsm  (xlsm file in root directory, VBA bas files in sub-folder)
 
 Tested with Excel 2016 & 365 (Windows)
 
@@ -132,8 +132,8 @@ In case you like to enable debug messages in general you can activate it in VBA 
 
 ### Version:
 
-20230514:
-- 'Kind of' fix of chart draw copy & paste issue (implemented automatic 5 times retry, just then error message)
+20230515:
+- 'Kind of' fix of chart draw copy & paste issue (implemented automatic 10 times retry, just then error message)
 - Finally ignoring -9999m/s climbing speed
 
 20230422:
